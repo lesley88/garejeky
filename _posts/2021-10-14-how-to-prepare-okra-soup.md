@@ -12,27 +12,27 @@ Okra soup is a delicious meal made from grated or sliced okra sticks. It is clos
 
 ## Ingredients 
 
-2 cups grated or chopped okra.
+- 2 cups grated or chopped okra.
 
-1/3 cup palm oil.
+- 1/3 cup palm oil.
 
-Fluted pumpkin leaves.(Ugwu) 
+- Fluted pumpkin leaves.(Ugwu) 
 
-Meat and or fish(dry).
+- Meat and or fish(dry).
 
-1/4 ground cray fish (optional) 
+- 1/4 ground cray fish (optional) 
 
-Prawns, dried (optional) 
+- Prawns, dried (optional) 
 
-4 small scotch bonnets. 
+- 4 small scotch bonnets. 
 
-1 tbs ground chilli pepper. 
+- 1 tbs ground chilli pepper. 
 
-1 medium size onion.(choped)
+- 1 medium size onion.(choped)
 
-2 seasoning cubes. 
+- 2 seasoning cubes. 
 
-Salt. 
+- Salt. 
 
 ## Preparation. 
 

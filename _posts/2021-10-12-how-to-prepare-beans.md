@@ -16,9 +16,9 @@ White or plain beans can be enjoyed as an accompaniment with food like rice,  do
 
 ### Ingredients
 
-Three cups of beans.
+- Three cups of beans.
 
-Salt.
+- Salt.
 
 ### Preparation
 
@@ -72,23 +72,23 @@ Stewed beans is a particular favourite in many Nigerian/African homes. It is so 
 
 ### Ingrédients
 
-Beans( as cooked above) -   3 cups.
+- Beans( as cooked above) -   3 cups.
 
-Cooking oil, (vegetable, sunflower, soya etc) or palm oil.
+- Cooking oil, (vegetable, sunflower, soya etc) or palm oil.
 
-Crayfish. (optional)
+- Crayfish. (optional)
 
-Tomato (optional)
+- Tomato (optional)
 
-Four small scotch bonnets.
+- Four small scotch bonnets.
 
-Ground chilli pepper ( half tablespoon. Use more if desired)
+- Ground chilli pepper ( half tablespoon. Use more if desired)
 
-1 large onion (chopped.)
+- 1 large onion (chopped.)
 
-Salt
+- Salt
 
-1 or two cubes of seasoning of your choice.
+- 1 or two cubes of seasoning of your choice.
 
 ### Preparation.
 
@@ -130,21 +130,21 @@ Once your beans are ready, making bean soup is very easy to prepare yet deliciou
 
 ## Ingrédients
 
-Beans( Cooked as no 1 above), 3 cups
+- Beans( Cooked as no 1 above), 3 cups
 
-Palm oil 1/2 cup
+- Palm oil 1/2 cup
 
-Chilli pepper
+- Chilli pepper
 
-Dry fish.
+- Dry fish.
 
-Grains of Selim - 1 medium size.
+- Grains of Selim - 1 medium size.
 
-Crayfish(ground)
+- Crayfish(ground)
 
-Salt.
+- Salt.
 
-I cube of any seasoning of your choice.
+- I cube of any seasoning of your choice.
 
 ### Preparation.
 

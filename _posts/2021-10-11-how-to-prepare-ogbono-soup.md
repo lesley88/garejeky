@@ -13,23 +13,15 @@ It's a thick, rich and slimy soup with an addictive nutty flavor. It's similar t
 
 ## Ingredients
 
-1 cup ground ogbono seeds. 
-
-1/2 cup palm oil. 
-
-Flutted pumpkin leaves.( Ugwu) 
-
-1/4 cup ground crayfish (optional) 
-
-I tb spoon ground chilli pepper. 
-
-Salt. 
-
-I onion for cooking your meat. 
-
-I or two cubes of seasoning. 
-
-Meat and or fish(dry). 
+- 1 cup ground ogbono seeds. 
+- 1/2 cup palm oil. 
+- Flutted pumpkin leaves.( Ugwu) 
+- 1/4 cup ground crayfish (optional)
+- I tb spoon ground chilli pepper. 
+- Salt. 
+- 1 onion for cooking your meat. 
+- 1 or two cubes of seasoning. 
+- Meat and or fish(dry). 
 
 ## Preparation. 
 
