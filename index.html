@@ -17,7 +17,7 @@ description: "You go to recipe factory, providing you with easy and ready to go 
       <div class="card border-0 mb-4 box-shadow">
         <a href="{{ latest_post.url | relative_url }}">
           <div class="topfirstimage"
-            style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{ latest_post.image | relative_url }}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+            style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{ latest_post.image | relative_url }}{% endif %}); height: 320px;    background-size: cover;    background-repeat: no-repeat;"></div>
         </a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
           <h2 class="h4 font-weight-bold">
@@ -50,7 +50,8 @@ description: "You go to recipe factory, providing you with easy and ready to go 
         {% if second_post.image %}
         <div class="col-md-4">
           <a href="{{ second_post.url | relative_url }}">
-            <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+            
+            <img class="w-100" src="{% if second_post.image contains "http://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
           </a>
         </div>
         {% endif %}
@@ -76,6 +77,7 @@ description: "You go to recipe factory, providing you with easy and ready to go 
       <div class="mb-3 d-flex align-items-center">
         {% if third_post.image %}
         <div class="col-md-4">
+          
           <a href="{{third_post.url | relative_url }}">
             <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{ third_post.image | relative_url }}{% endif %}" alt="{{ third_post.title }}">
           </a>
@@ -104,7 +106,7 @@ description: "You go to recipe factory, providing you with easy and ready to go 
         {% if fourth_post.image %}
         <div class="col-md-4">
           <a href="{{ fourth_post.url | relative_url }}">
-            <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}/{{ fourth_post.image | relative_url }}{% endif %}" alt="{{ fourth_post.title }}">
+            <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{ fourth_post.image | relative_url }}{% endif %}" alt="{{ fourth_post.title }}">
           </a>
         </div>
         {% endif %}
