@@ -3,7 +3,6 @@ layout: post
 title:  "How To Prepare  Beans"
 categories: [ Bean Soup, Beans ]
 image: assets/images/beans.jpg
-tags: [sticky]
 ---
 
 # How To Prepare  Beans in Three Different Ways (Plain, Stewed and Beans Soup)

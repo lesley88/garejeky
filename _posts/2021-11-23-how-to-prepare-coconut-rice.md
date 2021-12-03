@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Prepare  Coconut Rice"
 categories: [ Rice, Coconut ]
-image: assets/images/beans.jpg
+image: assets/images/coconut.jpeg
 tags: [sticky, featured]
 ---
 

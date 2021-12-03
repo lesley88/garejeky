@@ -3,7 +3,7 @@ layout: post
 title:  "How To Make Chin Chin"
 categories: [ Pastry ]
 image: assets/images/beans.jpg
-tags: [sticky, featured]
+tags: [featured]
 ---
 # How to make chin chin. 
 
