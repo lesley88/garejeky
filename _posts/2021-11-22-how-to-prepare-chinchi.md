@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Make Chin Chin"
 categories: [ Pastry ]
-image: assets/images/beans.jpg
+image: assets/images/chin.jpg
 tags: [featured]
 ---
 # How to make chin chin. 

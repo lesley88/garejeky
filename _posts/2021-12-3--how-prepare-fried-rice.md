@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Prepare Fried Rice (Nigerian Style) "
 categories: [ Rice ]
-image: assets/images/coconut.jpeg
+image: assets/images/rice-n.jpg
 tags: [featured]
 ---
 
