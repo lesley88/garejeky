@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "How to prepare Nigerian Jollof rice"
-categories: [ Pastry ]
+categories: [ Rice ]
 image: assets/images/jolof.jpg
-tags: [Rice]
+
 ---
 
 # How to prepare Nigerian Jollof rice
