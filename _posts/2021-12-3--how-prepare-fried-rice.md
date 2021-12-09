@@ -8,25 +8,25 @@ tags: [featured]
 
 # How to cook fried rice (Nigerian Style) 
 
-Fried rice is one of Nigeria's most popular rice recipes. It is a delicacy often enjoyed both at home and at parties. 
+Fried rice is one of Nigeria's most popular rice recipes. It's a delicacy often enjoyed both at home and at parties. 
 
 Fried rice and jollof rice are popularly served during festive seasons and celebrations such as Christamas, New Year, Birthdays, graduation parties etc.
 
-It is also quick and easy to prepare.
+It's also quick and easy to prepare.
 
 ## Ingredients. 
 - 3  cups of rice( long grain) 
 - I green bell pepper 
-- 1 medium size carrot
+- 3 medium size carrots
 - I/4 cup green peas(optional)
 - 1/2 cup cut green beans 
 - I handful sweet corn (optional) 
 - One large onion
 - 1  tbl spoon curry powder 
 - Cow liver(optional)
-- 1/4  cup cooking oil 
+- 1/8  cup cooking oil 
 - Chicken
-- curry powder (this will depend on the quantity of your chicken) 
+- curry powder (for cooking your chicken) 
 - Thyme as desired( for cooking your chicken)
 - Salt
 - Two seasoning cubes
@@ -36,16 +36,16 @@ It is also quick and easy to prepare.
 ### Parboil the rice. 
 1. Pour some water in a pot and bring to boil. 
 2. Wash and add the rice to the pot of boiling water. Cook for 15 minutes and take off the stove. 
-3. Pour into a sieve and wash under running water, making sure that the rice doesn't stick together. Once done, leave in the sieve so all the water drains out. 
+3. Pour into a sieve and wash under running water, making sure that the rice doesn't stick together. Once done, leave in a sieve to drain. 
 
 ### Cook the chicken 
-1. Wash the chicken and pour into a pot. Add salt, sliced onions, thyme,  one seasoning cube and  some water.  Cook for ten minutes and add more water . Cook until tender and take off the stove.
-2.  Take out the chicken from the stock and fry until golden brown on both sides. 
+1. Wash the chicken and pour into a pot. Add salt, sliced onions, thyme, curry powder, one seasoning cube and  some water.  Cook for ten minutes and add more water . Cook until tender and take off the stove.
+2.  Take out the chicken from the stock and fry until golden on both sides. 
 3. Place in a sieve or a paper towel to drain. 
-4. Pour the stock (water left from cooking the chicken), in a sieve to remove tiny particles.
+4. Pour the stock (water left from cooking the chicken) in a sieve to remove chicken bones that might be left in it.
 
 ### Prepare the liver. 
-1. Wash and place the liver in a pot, add salt,  seasoning cube, some chopped onion and small amount of water. Cook until tender. 
+1. Wash and place the liver in a pot, add salt,  seasoning cube, some chopped onion and water. Cook until tender. 
 2. Take off the pot and allow to cool. Place on a flat surface and cut into small cube like shapes. 
 1. Fry for a few minutes and place in a sieve. (frying the liver is optional but makes for a cripsy feel). 
    
@@ -57,32 +57,37 @@ It is also quick and easy to prepare.
 ## Cooking directions.
 Below are three ways you can cook fried rice. 
 ### One
-1. Pour the  chicken stock in a large pot and bring to boil. The stock should be enough to fully cook the rice if it isnt,  water should be added.. 
-2. To the boiling stock, add your parboiled rice , salt, curry powder, one seasoning cube and leave to cook on high heat.
+1. Pour the  chicken stock in a large pot and bring to boil. The stock should be enough to fully cook the rice. If the stock is too small, you can add some water.  
+2. To the boiling stock, add your parboiled rice and salt. Leave to cook on high heat.
 3. Just before the stock dries up,  pour in your fried veggies and liver. 
 4. Cover and Leave on fire for about 2 to three minutes or until the water completely dries up. 
-5. With a spatula, stir the rice, making sure that everything is evenly mixed. Leave for another one minute and take off the stove. 
+5. With a spatula/wooden spoon, stir the rice, making sure that everything is evenly mixed. Leave for another one minute and take off the stove. 
 6. Leave the rice covered for ten to fifteen minutes(This improves the taste) and your fried rice is ready. 
 ### Two
 1. Pour the chicken stock in a pot and bring to boil
-2. Add the parboiled rice,  salt, curry powder, one seasoning cube and allow to cook on high heat. 
-3. Once the water dries off,  take off the stove .
-   
-   This next step depends on the quantity of your rice and the size of your frying pan. The rice would be fried in batches so if the rice is small, you might just need to go through this process once. 
-4. Place a frying pan on the stove and pour in some fried veggies. Into the veggies, pour in some rice and liver.  stir continuously. Fry for about two minutes and take off the stove. Repeat this process until all the rice is fried and your fried rice is ready. 
+2. Add the parboiled rice and salt. Alow to cook on high heat. 
+3. Once the water dries up,  take off the stove .
+ 
+The next step is to fry the rice. you will need to divide the fried vegetables and rice into smaller portions and fry them in batches. The size of your pan and the quantity of your rice would determine how many times this will be done.
+
+4. Place a frying pan on the stove and pour in a portion of fried vegetables. 
+5. Next, add some rice and liver. Stir-fry for about two to three minutes and take off the stove. 
+6. Repeat this process until all the rice is fried.
+ 
+  Your fried rice is ready. 
 
 ### Three
- For this method, all ingredients are same but no frying is made. 
-1. While your rice is boiling (in your chicken stock),  add  salt, curry powder, one seasoning cube and some cooking oil and allow to boil for a few minutes. 
-2. About 5 minutes before the water dries up, pour in your chopped veggies and liver. Cover and allow the water dry up. Stir with a spatula and take off the stove. 
+ For this method, all ingredients are same but the rice is not fried. 
+1. Boil the stock and add rice, salt, curry powder, one seasoning cube and cooking oil. Allow to boil for 15/20 minutes. 
+2. 5 minutes before the water dries up, pour in your chopped veggies and liver. Cover and allow the water dry up. Stir with a wooden spoon and take off the stove. 
 3. Keep the lid over the pot for five to ten minutes.
 
 
 Your fried rice is ready. 
 
-Fried rice can be enjoyed with moi-moi, salad, dodo(fried plantain) 
+Serve with moi-moi, salad and/or dodo.(fried plantain) 
 
-_Some persons argue that the last method above cannot be called fried rice since no frying is made but I have seen people enjoy it this way. So its just a matter of choice._
+_Some persons argue that the last method cannot be called fried rice since no frying is done but its just a matter of preference._
 
 *Turkey stock can also be used. 
 
