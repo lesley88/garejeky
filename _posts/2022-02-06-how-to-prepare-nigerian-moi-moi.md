@@ -14,9 +14,9 @@ Moi -moi, known in English as bean pudding is a popular Nigerian side dish and s
 It can be eaten on it's own or served as an accompaniment with various foods such as rice, pap, oats etc. 
 
 ## Preparation time
-Cooking time-
+Cooking time- 50 minutes to an hour
 
-Serves-
+Serves- 5 to 6 people
 
 ## Ingredients 
 
