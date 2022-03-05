@@ -6,7 +6,6 @@ categories:
 image: assets/images/edikang.jpeg
 
 ---
-# Edikang Inkong
 
 # How to prepare Edikang Inkong - Nigerian Dish
 
@@ -25,7 +24,7 @@ Serves - 3 to 4
 * Ugwu or fluted pumpkin leaves. 1 kg (washed and chopped)
 * Water leaves. 1kg (washed and cut into small pieces)
 * Onions. 1 (chopped)
-* Beef stake + assorted 
+* Beef stake + assorted
 * Smoked fish
 * Periwinkle. 1/2 to 1 cup
 * Fresh pepper. 5 (blended with some onions)
@@ -53,13 +52,13 @@ Wash the stockfish and soak in hot water for 30 minutes.
 3. Add the fish and cook for 3 to 5 minutes.
 4. Add water leaves, Ugwu leaves, chilli pepper, salt, and one stock cube and cook for five minutes.
 
-Your Edikang Ikong soup is ready.
+**Your Edikang Ikong is ready.**
 
 ## Servings
 
 Edikan Ikong can be served with any swallow: Eba, Amala, Semo, Wheat etc.
 
-Note
+**Note**
 
 1. Don't add too much salt when cooking this soup as it can get salty fast.
 2. If you are using heavily smoked fish, add it at the same time you are cooking the stockfish.
