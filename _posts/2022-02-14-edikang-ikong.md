@@ -4,7 +4,7 @@ title:  "How to prepare Edikang Inkong - Nigerian Dish"
 categories: [ Nigeria ]
 image: assets/images/edikang.jpeg
 ---
-# Adekenko
+# Edikang Inkong 
 
 # How to prepare Edikang Inkong - Nigerian Dish
 
