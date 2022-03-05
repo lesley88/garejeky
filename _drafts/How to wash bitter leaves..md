@@ -2,7 +2,7 @@
 layout: post
 categories: []
 title: How to wash bitter leaves.
-author: ''
+author: Gare
 image: ''
 
 ---
