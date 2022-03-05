@@ -43,7 +43,7 @@ Serves - 3 to 4
 
 ## Preparation
 
-Wash the stockfish and soak in hot water for 30 minutes to one hour.
+Wash the stockfish and soak in hot water for 30 minutes.
 
 ## Direction for cooking
 
