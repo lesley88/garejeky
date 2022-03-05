@@ -45,8 +45,7 @@ Egusi soup is a tasty meal made from dry Melon seeds. It has its origin among Th
 5. Cook your meat with salt, onion and 1 seasoning cube.
 
    Once cooked, you can use the meat or fry with palm oil or vegetable oil.
-6. If what you have is fresh fish, fry with palm oil before using it.
-   If you are using dry fish, there is no need to fry.
+6. If what you have is fresh fish, fry with palm oil before using. If you are using dry fish, there is no need to fry.
 
 ## Cooking directions.
 
@@ -60,8 +59,19 @@ Egusi soup is a tasty meal made from dry Melon seeds. It has its origin among Th
 6. Add your meat, fish, crayfish, Salt, bitter leaves and cover for 10 minutes.
 7. Add your seasoning cube, stir well and leave to boil for 5 to 7 minutes.
 
-Your egusi soup is ready! Serve and enjoy with eba, nshima, ugali, semo, amala etc.
-You can also mix your egusi soup with [ogbono soup](/how-to-prepare-ogbono-soup/) before eating. Give both a try and see which you prefer.
+**Your egusi soup is ready!** 
+
+## Serving.
+
+Serve and enjoy with eba, nshima, ugali, semo, amala etc. 
+
+You can also serve and mix egusi soup with [ogbono soup](/how-to-prepare-ogbono-soup/) before eating.
+
+**Note**
+
+ Do not mix the entire pot with Ogbono soup. Only mix one serve.
+
+ Give both a try and see which you prefer.
 
 How to wash bitter leaves.
 
@@ -95,6 +105,8 @@ Tips.
 
 For Egusi soup:
 
-* Stop washing when you can taste the leaves without scrunching up your face. For this soup, If you wash out all the bitterness, it losses its uniqueness. (still not sure when to stop? When you start cooking, add your bitter leaves in batches and taste to see how it comes out. After a few trials, you will find the perfect taste for you.)
+* For Egusi soup, don't wash out all bitterness from the leaves. Stop washing when you can taste them without scrunching up your face. For this soup, If you wash out all bitterness, it losses its uniqueness. (still not sure when to stop? When you start cooking, add your bitter leaves in batches and taste to see how it comes out. After a few trials, you will find the perfect taste for you.)
 
-**Note.**  People with severe asthma are strongly not advised to prepare this soup following this method because of all the palm oil bleaching involved.
+For Bitter leaf soup:
+
+* Ironically, for bitter leaf soup, you have to wash out all traces of bitterness from the leaves.
