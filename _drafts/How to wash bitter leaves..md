@@ -3,7 +3,7 @@ layout: post
 categories: []
 title: How to wash bitter leaves.
 author: Gare
-image: ''
+image: "/assets/images/bitterleaf-4.jpg"
 
 ---
 How to wash bitter leaves.
