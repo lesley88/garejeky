@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- Kitchen Hacks
 title: How to wash bitter leaves.
 author: Gare
 image: "/assets/images/bitterleaf-4.jpg"
