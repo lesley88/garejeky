@@ -75,23 +75,26 @@ Different foods require you to wash bitter leaves in different ways but the over
 
 There are two main ways of washing bitter leaves.
 
-1. With a blender
+1. With a blender.
+   * Wash the leaves and place in a blender, add some water and blend for one to two minutes.
+   * Pour the mix into a bowl and squeeze out the water from the leaves and place in a new bowl. Throw the water you squeezed out away.
+   * Add fresh water to the leaves and squeeze for a few minutes before throwing out the water. 
+   * This helps get rid of the bitter taste so repeat this process until you get the taste you want.
+2. Traditional method.
 
-   Wash the leaves and place in a blender, add some water and blend for one to two minutes.
-
-   Pour the mix into a bowl and squeeze out the water from the leaves and place in a new bowl. Throw the water you squeezed out away.
-
-   Add fresh water to the leaves and squeeze for a few minutes before throwing out the water. 
-
-   This process helps get rid of the bitter taste so taste the leaves after every wash to know if it's ok for use.
-
-   Repeat this pro
+   This is the traditional method of washing bitter leaves.
 
 * Place the fresh bitter leaves into a big bowl(big enough for both of your hands to fit into it and still have some room).
 * Add a little water.
 * Clunch a handful of leaves in both hands, leaving some parts peeking out of your clenched fists. Start rubbing the leaves in your hands together, mimicking the movements you make when you wash your clothes.
 * After a few minutes, you will notice the water turn green and become foam-like.
 * Continue for a few minutes before draining the water and adding a new one.
-* Repeat this process until the leaves lose most of its bitter taste. Stop washing when you can taste the leaves without scrunching up your face. For this soup, If you wash out all the bitterness, it losses its uniqueness. (still not sure when to stop? When you start cooking, add your bitter leaves in batches and taste to see how it comes out. After a few trials, you will find the perfect taste for you.)
+* Repeat this process until the leaves lose most or all of their bitter taste. 
+
+Tips.
+
+For Egusi soup:
+
+* Stop washing when you can taste the leaves without scrunching up your face. For this soup, If you wash out all the bitterness, it losses its uniqueness. (still not sure when to stop? When you start cooking, add your bitter leaves in batches and taste to see how it comes out. After a few trials, you will find the perfect taste for you.)
 
 **Note.**  People with severe asthma are strongly not advised to prepare this soup following this method because of all the palm oil bleaching involved.
