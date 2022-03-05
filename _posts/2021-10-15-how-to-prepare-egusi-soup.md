@@ -77,12 +77,15 @@ There are two main ways of washing bitter leaves.
 
 1. With a blender
 
+   Wash the leaves and place in a blender, add some water and blend for one to two minutes.
 
-1. Wash the leaves and place in a blender, add some water and blend for three minutes.
+   Pour the mix into a bowl and squeeze out the water from the leaves and place in a new bowl. Throw the water you squeezed out away.
 
-   Pour the mix into a bowl and squeeze out the water. from the leaves and throw the water away.
+   Add fresh water to the leaves and squeeze for a few minutes before throwing out the water. 
 
-   Add fresh water to the leaves and wash until you can only taste a slight bitter taste.
+   This process helps get rid of the bitter taste so taste the leaves after every wash to know if it's ok for use.
+
+   Repeat this pro
 
 * Place the fresh bitter leaves into a big bowl(big enough for both of your hands to fit into it and still have some room).
 * Add a little water.
