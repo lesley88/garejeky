@@ -39,9 +39,8 @@ Egusi soup is a tasty meal made from dry Melon seeds. It has its origin among Th
 3. Cut one onion into fine bits.
 4. Wash the bitter leaves.
 
-   You can buy already washed bitter leaves from the market or you can wash them on your own.
+   You can buy already washed bitter leaves from the market or you can [wash it yourself](/how-to-wash-bitter-leaves).
 
-   **How to wash bitter leaves.**
 5. Cook your meat with salt, onion and 1 seasoning cube.
 
    Once cooked, you can use the meat or fry with palm oil or vegetable oil.
