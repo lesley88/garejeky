@@ -1,40 +1,40 @@
 ---
 layout: post
-title:  "How to prepare Edikang Inkong - Nigerian Dish"
-categories: [ Nigeria ]
+title: How to prepare Edikang Inkong - Nigerian Dish
+categories:
+- Nigeria
 image: assets/images/edikang.jpeg
+
 ---
-# Edikang Inkong 
+# Edikang Inkong
 
 # How to prepare Edikang Inkong - Nigerian Dish
 
 ## What is Edikang Inkong?
 
-Edikan Inkong is a thick, tasty and healthy meal made from a generous amount of vegetables, usually Ugwu (fluted pumpkin leaves) and water leaves, palm oil and an assortment of meat and fish.
-
-Edikan Inkong soup is native to the Efiks of Akwa Ibom and Cross Rivers State in Nigeria.
+Edikan Inkong is a thick, tasty and healthy meal made from a generous amount of vegetables, usually Ugwu (fluted pumpkin leaves), water leaves, palm oil and an assortment of meat and fish.
 
 ## Preparation time
 
 Cooking time- 30 minutes.
 
-Serves - 3 to 5
+Serves - 3 to 4
 
 ## Ingredients
 
-- Ugwu or fluted pumpkin leaves 1 kg (washed and chopped)
-- Water leaves (washed and cut into small pieces)
-- Onions. 1 (chopped)
-- Beef stake + l assorted ( tripe,
-- Smoked fish
-- Periwinkle. 1/2 to 1 cup
-- Fresh pepper. 5 (blended with some onions)
-- Dry chilli pepper (ground)
-- Palm oil
-- 1/2 cup dry crayfish (pounded or ground)
-- Salt
-- 2 seasoning cubes
-- 1 large stockfish
+* Ugwu or fluted pumpkin leaves. 1 kg (washed and chopped)
+* Water leaves. 1kg (washed and cut into small pieces)
+* Onions. 1 (chopped)
+* Beef stake + assorted 
+* Smoked fish
+* Periwinkle. 1/2 to 1 cup
+* Fresh pepper. 5 (blended with some onions)
+* Dry chilli pepper (ground)
+* Palm oil. 1/2 cup
+* Dry crayfish 1/3(pounded or ground)
+* Salt
+* 2 seasoning cubes
+* 1 large stockfish
 
 ## Optional ingredients
 
@@ -48,7 +48,7 @@ Wash the stockfish and soak in hot water for 30 minutes to one hour.
 ## Direction for cooking
 
 1. Wash and cook the meat until almost tender, then add your stockfish and cook until tender.
-   *Season meat with salt, some chopped onion and one seasoning cube.* *Make sure that your meat has as little water as possible by the time it's well cooked.* *Why? That is because this soup needs to be very thick. The leaves and palm oil will give it enough water to Cook.*
+   _Season meat with salt, some chopped onion and one seasoning cube._ _Make sure that your meat has as little water as possible by the time it's well cooked._ _Why? That is because this soup needs to be very thick. The leaves and palm oil will give it enough water to Cook._
 2. Add fresh pepper, crayfish, periwinkle, palm oil and cook for 7 to 10 minutes.
 3. Add the fish and cook for 3 to 5 minutes.
 4. Add water leaves, Ugwu leaves, chilli pepper, salt, and one stock cube and cook for five minutes.
