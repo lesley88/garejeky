@@ -60,6 +60,6 @@ Edikan Ikong can be served with any swallow: Eba, Amala, Semo, Wheat etc.
 
 **Note**
 
-1. Don't add too much salt when cooking this soup as it can get salty fast.
+1. Don't add much salt when cooking this soup as it can get salty fast.
 2. If you are using heavily smoked fish, add it at the same time you are cooking the stockfish.
 3. Don't like spicy food? It's okay to leave out chilli pepper.
