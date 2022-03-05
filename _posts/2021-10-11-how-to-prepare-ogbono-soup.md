@@ -6,8 +6,6 @@ image: assets/images/ob.jpg
 
 ---
 
-# How to cook ogbono/ ogbolo soup. 
-
 Ogbono Soup is made from dry ogbolo seeds ( African Bush Mango seeds), It has its origin among the Igbos of South-eastern Nigeria.
 
 It's a thick, rich and slimy soup with an addictive nutty flavor. It's similar to okra soup but different in taste. is one of the easiest soups to prepare. 

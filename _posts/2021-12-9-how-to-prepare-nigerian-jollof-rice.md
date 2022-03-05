@@ -5,7 +5,6 @@ categories: [ Rice ]
 image: assets/images/jolof.jpg
 ---
 
-# How to prepare Nigerian Jollof rice
 
 Jollof rice is undoubtedly Nigeria's most popular rice recipe. It's popular both at home and in parties. It's not only delicious but quick and easy to prepare. 
 

@@ -7,8 +7,6 @@ image: assets/images/edikang.jpeg
 
 ---
 
-# How to prepare Edikang Inkong - Nigerian Dish
-
 ## What is Edikang Inkong?
 
 Edikan Inkong is a thick, tasty and healthy meal made from a generous amount of vegetables, usually Ugwu (fluted pumpkin leaves), water leaves, palm oil and an assortment of meat and fish.

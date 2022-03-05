@@ -6,7 +6,6 @@ image: assets/images/coconut.jpeg
 tags: [sticky, featured]
 ---
 
-# How to prepare coconut rice. (with pepper sauce)
 
 Coconut rice is a kind of rice made almost entirely from rice and coconut milk. It is soft, milky(both in colour and taste), yummy and loved by both  kids and adults.
 

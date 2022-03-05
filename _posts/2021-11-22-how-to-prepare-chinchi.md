@@ -5,7 +5,6 @@ categories: [ Pastry ]
 image: assets/images/chin.jpg
 tags: [featured]
 ---
-# How to make chin chin. 
 
 Chin chin is a type of Nigerian snack that is sweet, munchy and crunchy. It's the perfect snack for your kids at home or at school. Your go to snack at work or while chilling with Friends. 
 

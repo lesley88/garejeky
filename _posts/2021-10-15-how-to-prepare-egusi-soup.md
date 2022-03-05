@@ -9,7 +9,7 @@ categories:
 image: "/assets/images/egusi_soup.png"
 
 ---
-# How to prepare egusi soup. (Melon soup)
+
 
 Egusi soup is a tasty meal made from dry Melon seeds. It has its origin among The Yorubas of south-western Nigeria. Today, it is considered a national delicacy prepared throughout the country and beyond.
 

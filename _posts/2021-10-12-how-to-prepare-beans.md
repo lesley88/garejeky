@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "How To Prepare  Beans"
+title:  "How To Prepare  Beans in Three Different Ways (Plain, Stewed and Beans Soup"
 categories: [ Bean Soup, Beans ]
 image: assets/images/beans.jpg
 ---
 
-# How To Prepare  Beans in Three Different Ways (Plain, Stewed and Beans Soup)
+
 
 Beans are a highly nutritious meal that comes in various sizes and colours. It can also be prepared in many different ways. All unique and delicious. Here are three different ways to prepare beans that you can try today.
 

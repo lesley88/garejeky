@@ -5,7 +5,7 @@ categories: [ Soup, African, Nigeria ]
 image: assets/images/goat-meat.jpg
 
 ---
-# How to prepare goat meat pepper soup. 
+
 
 Pepper soup is one of Nigerian national dishes and has varieties depending on the region and homes you visit. Some people prepare pepper soup with scent leaves and fresh pepper, others do not. Where ever you go though, one thing is sure ,you do not want to miss it ! .
 

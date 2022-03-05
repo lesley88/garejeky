@@ -7,7 +7,6 @@ categories:
 image: assets/images/moi.jpg
 
 ---
-# How to prepare Moi-Moi - Bean pudding - Nigerian side dish.
 
 ## What is moi-moi, or moin moin?
 

@@ -6,7 +6,7 @@ image: assets/images/okra-soup.jpg
 tags: featured
 ---
 
-# How to cook okra soup. 
+
 
 Okra soup is a delicious meal made from grated or sliced okra sticks. It is closely related to ogbono soup in texture, but different in taste. Hearing people say okra soup is their favourite is not uncommon. It’s so easy and quick to prepare. 
 

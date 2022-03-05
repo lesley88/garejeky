@@ -6,7 +6,6 @@ image: assets/images/rice-n.jpg
 tags: [featured]
 ---
 
-# How to cook fried rice (Nigerian Style) 
 
 Fried rice is one of Nigeria's most popular rice recipes. It's a delicacy often enjoyed both at home and at parties. 
 

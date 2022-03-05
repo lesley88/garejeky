@@ -5,7 +5,7 @@ categories: [ Banga Soup, Chicken ]
 image: assets/images/banga.jpg
 tags: [featured]
 ---
-# How to prepare banga soup(Palm fruit soup).
+
  
 Banga soup is native to the Urhobos of South Southern Nigeria. It's a delicious meal made from the juice extracted from palm fruits. 
 
