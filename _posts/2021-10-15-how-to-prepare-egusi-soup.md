@@ -65,15 +65,20 @@ You can also mix your egusi soup with [ogbono soup](/how-to-prepare-ogbono-soup/
 
 How to wash bitter leaves.
 
-BItter leaves unlike most other vegetables must be washed specially before adding 
+Bitter leaves are a unique type of vegetable. They are bitter in taste, healthy, and are used in a variety of dishes as well as a lot of home remedies.
 
-1. You can buy already washed bitter leaves from the market or you can wash them on your own.
+Their bitter taste which makes them unique is also a turn of for some. This is mainly because they are unable to properly wash them. Today we are going to look at how to wash the perfect bitter leaves.
 
-   **How to wash bitter leaves for egusi soup.**
+Washing bitter leaves for food
 
-   Bitter leaves can be washed in two ways:
+Different foods require you to wash bitter leaves in different ways but the overall process is the same. 
 
-   Wash the leaves and place in a blender, add some water and blend for three minutes.
+There are two main ways of washing bitter leaves.
+
+1. With a blender
+
+
+1. Wash the leaves and place in a blender, add some water and blend for three minutes.
 
    Pour the mix into a bowl and squeeze out the water. from the leaves and throw the water away.
 
