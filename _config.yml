@@ -8,7 +8,7 @@ mailchimp-list: ""
 
 include: ["_pages"]
 permalink: /:title/
-url: "https://www.thefresh.co.zm"
+url: "https://www.bytherecipe.com"
 # Plugins
 plugins:
   - jekyll-feed
