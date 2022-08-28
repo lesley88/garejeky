@@ -42,6 +42,8 @@ It's also quick and easy to prepare.
 2.  Take out the chicken from the stock and fry until golden on both sides. 
 3. Place in a sieve or a paper towel to drain. 
 4. Pour the stock (water left from cooking the chicken) in a sieve to remove chicken bones that might be left in it.
+  
+
 
 ### Prepare the liver. 
 1. Wash and place the liver in a pot, add salt,  seasoning cube, some chopped onion and water. Cook until tender. 
